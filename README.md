@@ -1,1 +1,1 @@
-# Mathematics-For-ML-Book
+# Mathematics-For-ML
